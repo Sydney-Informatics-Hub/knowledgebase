@@ -1,1 +1,1 @@
-This respository was created because the University's Service Portal Knowledge Base only allows images attached to an article to be viewed if a user is logged in. Therefore, hosting the images here to link to. 
+This respository was created because the University's Service Portal Knowledge Base only allows images attached to an article to be viewed if a user is logged in. Therefore, hosting the images here so that non-UniKey holders can view, as is required in some cases. Therefore, please ensure this repository remains active so that these articles can be used.
